@@ -25,5 +25,8 @@ Upon running the script, you will be presented with a menu of options:
 ## Security
 The passwords are encrypted using AES-256-CBC encryption with PBKDF2 key derivation. The encryption key is derived from the user's input password, which is not stored or logged anywhere. The encrypted passwords are stored in a hidden file named `.passwords` in the same directory as the script.
 
+## License
+This project is licensed under the MIT License. See the [LICENSE](/LICENSE) file for details.
+
 ## Disclaimer
 This script is provided as-is and without any warranty or guarantee. Use at your own risk. The author is not responsible for any loss or damage caused by the use of this script.
