@@ -6,7 +6,7 @@ This script requires the `openssl` utility to be installed on your system.
 
 ## Installation
 1. Clone the repository: `git clone https://github.com/TawanLekngam/Password-Manager.git`
-2. Move into the directory: cd your-repository
+2. Move into the directory: cd Password-Manager
 3. Run the script: `./manager.sh`
 
 ## Usage
